@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+img {
+    max-width: 300px;
+}
+
+.content-file{
+    margin: 10px;
+    margin-left: 0px;
+    padding: 20px;
+}
+
+.clr-result {
+    background-color: #c0c0c0;
+    display: inline-block;
+}
+
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    background-color: #0b72af;
+    color: #fff;
+    font-weight: 600;
+}
+.custom-file-upload:hover,
+.custom-file-upload:focus {
+    background-color: #005689;
+}
+
+.d-none {
+    display: none;
+}
